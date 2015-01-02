@@ -1,0 +1,16 @@
+# Site settings
+title: ekush
+email: rkabir.rashed@gmail.com
+description: "Stories from 9th floor."
+baseurl: ""
+url: "http://ekush.github.io"
+twitter_username: rashedulkabir
+github_username:  ekush
+facebook_username:  rashedulkabir
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

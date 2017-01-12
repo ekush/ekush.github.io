@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Day Zero : 100 days of code"
+subtitle:   "It's not about coding"
+date:       2017-01-12 00:00:00
+author:     "Rashedul Kabir"
+header-img: "img/day-zero-cover.jpg"
+---
+
+
+
+<p>At the beginning this year seemed like every other new year I had. The first few days reading a lot aout the highlights of the last year and then having some moments of reflections on how my year has passed and then may be a moment or two to think aout should I do something new this year? What should be the changes in me this year? And probably like every other year, this year too I will not follow the things I wanted to follow at the beginning of the year. Being somebody who loves coding and does coding more or less daily basis a coding challenge is nothing new to me. Coding is a part of my job till now. But I always wanted to go beyond. So this is about the challenge I have taken on for this year - the 100 days of code challenge. THe rules are pretty simple, you have to code for at least one hour for a 100 day. You will have to keep a olg of your daily progress and you will have to push the cde to github every day so that people cn see your progress.</p>
+
+<p>With the challenge itself I have also decided to maintain a daily log of witing about the thoughts I have beside the hour of coding. Here comes the thoughts for the day zero.</p>
+
+
+<h2 class="section-heading">This is not aout coding</h2>
+<p>If I be very hones about it, I am scred to take a part in this hallenge. The fear comes mostly from not being exposed enough to the word. I have wrtten codes regularly for last about three years for my job and before that around 4 years as a part of my education. Now that I look back, this gives me at least a 7 years of time with coding in general. But for this challenge I am scare.</p>
+
+<h2 class="section-heading">Frameworks don't really matter</h2>
+<p>This is day zero, and I haven't yet started coding yet. I have an idea of a project in my head and I have already spnt more than 2 hours thinking about the right framework and the structure of the roject. And when its already wayy past my bedtime, I realized that what I am doing is actually procrastination. I have been told this many times that at the end frameworks don't really mater. You can write very bad code in a great framework and you can write very good codes in a not-so-powerfull framework. But for me this search is actually an way to spend more time not coding and just thinking aout the project</p>
+
+<h2 class="section-heading">There's no unique ideas</h2>
+<p>I spent hors thinking about doing something new. But in reality there's nothing unique out there left to do. The best way t actualy start doing something is to start with soething which may not be completely new, but you have an idea of improvement for that. This could be as simple and classic as a todo list app. There are tons of todo list apps out there. But does that mean they cannot be improved? So, yes, start from there.</p>
+
+<h2 class="section-heading">You will always find reasons to not complete</h2>
+<p>For me this probably is the most prominent problem with anything new that I start. In the midway I find an excuse to not to complete my personal projetcts. This happened for so many times. And I always find good excuses. THings like I suck at front end design, I have horrible sense of graphical elements, I am not a designer and the most common I cannot find time.</p>
+<p>Now that I am thinking about it, it might be just about going on and keep doing the things. Yes, I suck at front end, but can I not do a decent job by practicing more? Even if I can't can I not focus on making a more dynamic structure on the back end?</p>
+
+<h2 class="section-heading">Done is better than perfect</h2>
+<p>Here's my final thought for tonight.</p>
+<blockquote>Done is better than perfect</blockquote>
+<p>I have heard this for tons of time. Being a perfectionist has taken away a lot of things from me. Till now I have thought every single work is my signature - which still i - but they all probay don't have to be perfect. I should be focusing more on delvering and less on the perfection for this time.</p>
+
+<h2 class="section-heading">Here's to happy coding</h2>
+<p>I don't know if anyone is reading this or not. If you are, sorry for a long post. but here is to happy coding. As you have already started the challenge, thinking about starting or already way ahead or just reading - you probably all know there's soething magical in making a computer do the things you want it to do. I won't argue whether code is poetry or not, but well, sometimes is does give you the peace you were searching for for a while.</p>
+<blockquote>Happy coding!</blockquote>
+
+
+
+---
+Image by : <a href="https://unsplash.com/search/paint?photo=f6Xv0xs9JWg">Mike Petrucci</a>
+
+
+

@@ -17,4 +17,5 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 #timezone
 
-timezone:Asia/Dhaka
+timezone: Asia/Dhaka
+future: true

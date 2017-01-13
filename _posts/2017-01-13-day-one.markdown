@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Day One : What, Why and introduction with css timelines"
-subtitle:   "It's not about coding"
+subtitle:   "Good sense of desing comes with a price"
 date:       2017-01-13 00:00:00
 author:     "Rashedul Kabir"
 header-img: "img/day-one-cover.jpg"

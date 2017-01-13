@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Day One : What, Why and introduction with css timelines"
+subtitle:   "It's not about coding"
+date:       2017-01-13 00:00:00
+author:     "Rashedul Kabir"
+header-img: "img/day-one-cover.jpg"
+---
+
+<p>This is the day one of my project. Here is a short description of what I am going to do.
+The project is a quite simple one, this will be a resume generator. We see  tons of examples of nice and simple one page resume. I will first make a html/css/js version on a simple one page resume. Then I will try to make an app on top of that using which the users will be able to create their single page resume.</p>
+
+<p>Not very sophisticated, I know.</p>
+<p>Here are the whys behind this:</p>
+
+<h2 class="section-heading">Design is a heck of a wild beast </h2>
+<p>One of my weakness is the front end coding. For a very long time I have been coding on the back end and anything front end kind of scares me. The task of thinking about design and colors is always a difficult one for me and 99% of the time my idea of a design sucks. 
+I want to take this chance to work more on the front end and visual elements.
+</p>
+<h2 class="section-heading">Putting it our there is not as easy as you think it is</h2>
+<p>The perfectionist side of me has always problems with putting something out there for greater audience. There might be many reasons behind that and one of the core reason is probably the feeling of shame when people can see what I have done is probably not up to the standard. I agree quality is always always important – but often what is more important is the presence of something. If I don’t roll out something bad – I don’t roll out anything at all. So here it is – a battle against my perfectionism.</p>
+
+<h2 class="section-heading">Community is fun and I am missing it</h2>
+<p>Doing anything in a large group is fun and I have been missing a lot of the funs from communities. This project kind of gives me that opportunity to explore other peoples work and see their progress. When I know a lot of other people are also doing the similar things and creating awesome things across the globe – this is a different kind of fun and I don’t want to miss the fun this time. </p>
+
+---
+<p>Okay, I think I will stop my here. But before that I want to share some of the resources I cam across today while I was going through some of the design procedures. Here are the links which were mostly helpful today and I have borrowed idea/part of codes from these:
+</p>
+
+<p>Link to my project : <a href="http://ekush.github.io/korobi" title="Project Korobi">Project Korobi</a></p>
+
+<a href="https://webdesign.tutsplus.com/tutorials/building-a-vertical-timeline-with-css-and-a-touch-of-javascript--cms-26528" title="">Building a Vertical Timeline With CSS and a Touch of JavaScript </a>
+
+<a href="https://codepen.io/NilsWe/pen/FemfK">CSS Timeline</a>
+<a href="https://codepen.io/agrimsrud/pen/vtoqy">CSS Timeline</a>
+<a href="https://codyhouse.co/gem/horizontal-timeline/">Horizontal Timeline</a>
+<a href="https://codyhouse.co/gem/vertical-timeline/">Vertical Timeline</a> 
+ 

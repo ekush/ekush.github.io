@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "The Idea of Minimum Viable Product"
+subtitle:   "Another brick on the wall"
+date:       2017-01-14 00:00:00
+author:     "Rashedul Kabir"
+header-img: "img/mvp-cover.jpg"
+---
+
+<p>Today I am taking a break from the 100 days of code challenge. So I thought I would write about the latst concepts I was reading about the concept of Minimum Viable Product.</p>
+
+<h2 class="section-heading">What is MVP</h2>
+<p>
+	According to Wikipedia
+	<blockquote>In product development, the Minimum Viable Product (MVP) is a product with just enough features to gather validated learning about the product and its continued development.</blockquote>
+
+	What does that mean? Let's elaborate a little bit.
+</p>
+
+<p>
+	When often at the beginning of any personal projects, especially things like trying out a new programming language or building the first game of our life we tend to think too big. We think about the fancy stuff that our software or game will be able to do and then we clutter out code and project too early with a lot of components. In reality this might not always be a good idea especially when you are making you first game or the first coding project.
+</p>
+
+<p>
+	What we need instead is the minimum barebone functionality that works. For example for a racing game at the very beginning you may not probably think about all the cars and tracks there will be - the first thing could be two rectangles, one is your vehicle approaching and another may be another vehicle and a track. What you need to build first is the race mechanism and a collision detection system. You need to make the keyboard inputs first. And all these few basic components make your game. 
+</p>
+
+<p>
+	Thinking in this simplified way makes you keep your first project small and keeps you take smaller steps towards building a better product at the end. 
+</p>
+
+<p>
+	Here are the resources I came across today that might be helpful for not only game development but also for any types of product development projects in general.
+</p>
+
+<ul>
+	<li> <a href="https://unity3d.com/learn/tutorials/topics/developer-advice/how-scope-small-and-start-right?playlist=17126">How to Scope Small and Start Right</a> - This is the video that talks about MVP</li>
+	<li> <a href="https://unity3d.com/learn/tutorials/topics/developer-advice/how-start-your-game-development?playlist=17126">How to Start Your Game Development</a> - The whole getting started with game development series. Applicable for almost any types of development.</li>
+	<li> <a href="https://www.quora.com/What-is-a-minimum-viable-product">Quora : What is a minimum viable product</a></li>
+</ul>
+
+<p>
+	<blockquote>Happy coding.</blockquote>
+	Again, since I am writing this as a part of my journey with 100 days of code, Happy Coding everyone. Will be writing about the progress on my project soon. Thanks for reading
+</p>

@@ -40,7 +40,9 @@ Day one :
 I am terrible. usually i can type somewhere between 40-50 wpm with the typing tool I am typing at 7.8 words per average. I am facing a lot of problems and my confidence level (how confident I to type a letter) is just 0. This already seems like a hopeless attempt.
 Nevertheless I think I will just have to keep trying this for a while till I get better.
 
+Day unknown:
 
+Several days have been passed after i started doing this. Meanwhile I have been practicing on and off in between my work. Mostly 20-30 minutes of typing the stuff that are coming on the screen - random words and some phrases that doesnt make any sense. My average speed has risen up. But i am nowhere near my previous speed. One thing that has improved though is the fact that I can type along the tutorials I am following without looking at the keyboard much. I would say that made the whole experience of typing while following a video much faster.
 
 <p>
 Cover image courtesy : <a href="https://unsplash.com/@coolmilo">camilo jimenez on Unsplash</a>
